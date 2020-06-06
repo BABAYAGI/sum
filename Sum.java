@@ -15,7 +15,7 @@ public class Sum
 
  {
   int total = 0;
-  int loop ;
+  
   for(int i=0;i<args.length;i++)
   {
    int string2int = Integer.parseInt(args[i]);
